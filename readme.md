@@ -1,12 +1,7 @@
 # Welcome, I'm Emanuel Maza 👋
 
 ### Web Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
- <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
-  
-  #### 🏆 GitHub Trophies
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=INGCapaDev&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
-  -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmAMaz&hide_border=true)](https://git.io/streak-stats)
 
 
 ## About Me
