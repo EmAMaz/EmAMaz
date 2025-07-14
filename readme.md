@@ -1,7 +1,7 @@
 # Welcome, I'm Emanuel Maza 👋
 
 ### Web Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmAMaz&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmAMaz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ## About Me
