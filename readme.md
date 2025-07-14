@@ -1,4 +1,4 @@
-# Welcome, I'm Alvaro Capaceta 👋
+# Welcome, I'm Emanuel Maza 👋
 
 ### Web Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
@@ -67,9 +67,9 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </div>
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://santimazadev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/emanuel-santiago-maza-b6a0251aa/)
+[![Website](https://img.shields.io/badge/Website-santimazadev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://santimazadev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@EmanuelSantiagoMaza-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/emanuel-santiago-maza-b6a0251aa/)
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:santiagomaza33@gmail.com)
+[![Email](https://img.shields.io/badge/santiagomaza33@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:santiagomaza33@gmail.com)
